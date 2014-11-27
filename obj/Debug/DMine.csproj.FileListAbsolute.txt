@@ -1,0 +1,36 @@
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\bin\Debug\DMine.exe
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\bin\Debug\DMine.pdb
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Debug\DMine.Form1.resources
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Debug\DMine.Properties.Resources.resources
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Debug\DMine.csproj.GenerateResource.Cache
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Debug\DMine.exe
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Debug\DMine.pdb
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Debug\DMine.exe
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Debug\DMine.pdb
+D:\Workdir\MyProjects\DMine\DMine\DMine\bin\Debug\DMine.exe
+D:\Workdir\MyProjects\DMine\DMine\DMine\bin\Debug\DMine.pdb
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Debug\ResolveAssemblyReference.cache
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Debug\DMine.Form1.resources
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Debug\DMine.Properties.Resources.resources
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Debug\DMine.csproj.GenerateResource.Cache
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Debug\DMine.csproj.ResolveComReference.cache
+D:\Workdir\MyProjects\DMine\obj\Debug\DMine.csproj.ResolveComReference.cache
+D:\Workdir\MyProjects\DMine\obj\Debug\DMine.exe
+D:\Workdir\MyProjects\DMine\obj\Debug\DMine.pdb
+D:\Workdir\MyProjects\DMine\bin\Debug\DMine.exe
+D:\Workdir\MyProjects\DMine\bin\Debug\DMine.pdb
+D:\Workdir\MyProjects\DMine\obj\Debug\ResolveAssemblyReference.cache
+D:\Workdir\MyProjects\DMine\obj\Debug\DMine.Form1.resources
+D:\Workdir\MyProjects\DMine\obj\Debug\DMine.Properties.Resources.resources
+D:\Workdir\MyProjects\DMine\obj\Debug\GenerateResource.read.1.tlog
+D:\Workdir\MyProjects\DMine\obj\Debug\GenerateResource.write.1.tlog
+C:\Workdir\Dropbox\MyProjects\DMine\obj\Debug\DMine.csproj.ResolveComReference.cache
+C:\Workdir\Dropbox\MyProjects\DMine\obj\Debug\DMine.exe
+C:\Workdir\Dropbox\MyProjects\DMine\obj\Debug\DMine.pdb
+C:\Workdir\Dropbox\MyProjects\DMine\bin\Debug\DMine.exe
+C:\Workdir\Dropbox\MyProjects\DMine\bin\Debug\DMine.pdb
+C:\Workdir\Dropbox\MyProjects\DMine\obj\Debug\DMine.csprojResolveAssemblyReference.cache
+C:\Workdir\Dropbox\MyProjects\DMine\obj\Debug\DMine.Form1.resources
+C:\Workdir\Dropbox\MyProjects\DMine\obj\Debug\DMine.Properties.Resources.resources
+C:\Workdir\Dropbox\MyProjects\DMine\obj\Debug\DMine.csproj.GenerateResource.Cache

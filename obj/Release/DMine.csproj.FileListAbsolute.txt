@@ -1,0 +1,17 @@
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Release\DMine.Form1.resources
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Release\DMine.Properties.Resources.resources
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Release\DMine.csproj.GenerateResource.Cache
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\bin\Release\DMine.exe
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\bin\Release\DMine.pdb
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Release\DMine.exe
+C:\Documents and Settings\sa-pzuikov\Local Settings\Application Data\Temporary Projects\DMine\obj\Release\DMine.pdb
+D:\Workdir\MyProjects\DMine\DMine\DMine\bin\Release\DMine.exe
+D:\Workdir\MyProjects\DMine\DMine\DMine\bin\Release\DMine.pdb
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Release\ResolveAssemblyReference.cache
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Release\DMine.Form1.resources
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Release\DMine.Properties.Resources.resources
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Release\DMine.csproj.GenerateResource.Cache
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Release\DMine.exe
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Release\DMine.pdb
+D:\Workdir\MyProjects\DMine\DMine\DMine\obj\Release\DMine.csproj.ResolveComReference.cache
